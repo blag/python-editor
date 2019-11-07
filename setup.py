@@ -28,7 +28,7 @@ setup(
     author='Peter Ruibal',
     author_email='ruibalp@gmail.com',
     url='https://github.com/fmoo/python-editor',
-    license='Apache',
+    license='Apache 2.0',
     py_modules=[
         'editor',
     ],
